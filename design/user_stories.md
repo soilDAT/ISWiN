@@ -1,14 +1,14 @@
-1. Caleb is a user of soil moisture data. Caleb would like a simple interface to download soil moisture data in a given location. 
+# User Stories
 
-<mark style="background-color: #FFEB3B;">
-Caleb is a user of soil moisture data.
+<mark style="background-color: #f4e452;">
+Who is the user.
 </mark>
-<mark style="background-color: #A5D6A7;">
-Caleb would like a simple interface to download soil moisture data in a given location.
+<mark style="background-color: #76db7a;">
+What do they want to do with the tool.
 </mark>
 <mark style="background-color: #90CAF9;">
-blue
+What needs and desires do they want for the tool.
 </mark>
-<mark style="background-color: #f128ee;">
-magenta
+<mark style="background-color: #ec83ea;">
+What is their skill level.
 </mark>
