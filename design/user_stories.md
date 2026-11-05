@@ -12,3 +12,5 @@ What needs and desires do they want for the tool.
 <mark style="background-color: #ec83ea;">
 What is their skill level.
 </mark>
+
+Tara is a regional climate modeler. Tara would like to be able to use local estimates of soil moisture to model monthly heatwave risk. Tara wants data that is well documented with uncertainties. Tara is very proficient in data analysis.
