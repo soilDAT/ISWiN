@@ -91,6 +91,36 @@ She wants everyone to follow good Git practices so that we can collaborate. </ma
 She has extensive experience. 
 </mark>
 
+
+### 7
+
+<mark style="background-color: #f4e452;">
+Eirik is a software engineer at Oracle.
+</mark>
+<mark style="background-color: #76db7a;">
+He has a friend who is interested in climate modeling and would like to send this toolkit to him.
+</mark>
+<mark style="background-color: #90CAF9;">
+He wants this package to have documentation that is easy to understand. </mark>
+<mark style="background-color: #ec83ea;">
+His friend only ever codes in Python. 
+</mark>
+
+
+
+### 8
+
+<mark style="background-color: #f4e452;">
+Naoko works at a climate modeling company.
+</mark>
+<mark style="background-color: #76db7a;">
+She has her own dataset similar to the iNaturalist that she can use to obtain soil moisture content.</mark>
+<mark style="background-color: #90CAF9;">
+She would like the model to be easy and fast to train on her local computer. </mark>
+<mark style="background-color: #ec83ea;">
+She has very little coding experience.</mark>
+
+
 ## Lila
 ### 1
 
@@ -240,3 +270,13 @@ Felice is a geography PhD student who focuses on the U.S. east-west differences 
 
 Perry is a high schooler competing in his local Envirothon competition. Perry is working on a project about changes to local soils in his town. Perry wants to be able to get a clear graph / visualization with information about local soil moisture. Perry does not have any programming experience.
 
+
+## Adity
+
+### 1
+
+Jake is a hacker and uses inaturalist photos to create inaccurate data reports of the soil moisture. Jake wants to break through the firewall and access private user data and plans to do token and credential theft. He desires to have weak security and no user authentication in the firewall. He plans to do unauthorized exploitation, and weaponizing of data. His skills are Spear-Phishing and Pretexting.
+
+### 2
+
+Ema is a user of soil moisture data for large farms that 60% of consumers depend on in Seattle. She needs accurate data from the iNaturalist dataset for data analysis and to create data reports. Ema is a researcher and plans to use the data for making improvements in her research.
