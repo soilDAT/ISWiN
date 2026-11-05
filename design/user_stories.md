@@ -119,3 +119,9 @@ Griffin wants to be able to alter the machine learning model and make it less ac
 <mark style="background-color: #ec83ea;">
 Griffin is a soil researcher and member of Anonymous.
 </mark>
+
+## Caleb
+
+# 1
+
+Tara is a regional climate modeler. Tara would like to be able to use local estimates of soil moisture to model monthly heatwave risk. Tara wants data that is well documented with uncertainties. Tara is very proficient in data analysis.
