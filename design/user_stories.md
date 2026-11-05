@@ -91,6 +91,36 @@ She wants everyone to follow good Git practices so that we can collaborate. </ma
 She has extensive experience. 
 </mark>
 
+
+### 7
+
+<mark style="background-color: #f4e452;">
+Eirik is a software engineer at Oracle.
+</mark>
+<mark style="background-color: #76db7a;">
+He has a friend who is interested in climate modeling and would like to send this toolkit to him.
+</mark>
+<mark style="background-color: #90CAF9;">
+He wants this package to have documentation that is easy to understand. </mark>
+<mark style="background-color: #ec83ea;">
+His friend only ever codes in Python. 
+</mark>
+
+
+
+### 8
+
+<mark style="background-color: #f4e452;">
+Naoko works at a climate modeling company.
+</mark>
+<mark style="background-color: #76db7a;">
+She has her own dataset similar to the iNaturalist that she can use to obtain soil moisture content.</mark>
+<mark style="background-color: #90CAF9;">
+She would like the model to be easy and fast to train on her local computer. </mark>
+<mark style="background-color: #ec83ea;">
+She has very little coding experience.</mark>
+
+
 ## Lila
 ### 1
 
