@@ -192,7 +192,7 @@ Rhea is the owner of the github organization and in charge of keeping the databa
 Rhea wants to be able to fix the issues that are submitted.
 </mark>
 <mark style="background-color: #90CAF9;">
-Rhea needs full access to the repository and it to be will organized on the backend. 
+Rhea needs full access to the repository and it to be well organized on the backend. 
 </mark>
 <mark style="background-color: #ec83ea;">
 Rhea has 5 years of experience with software management.
