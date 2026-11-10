@@ -272,11 +272,28 @@ Perry is a high schooler competing in his local Envirothon competition. Perry is
 
 
 ## Adity
+## 1
+Jake is a hacker and uses inaturalist photos to create inaccurate soil moisture reports. He wants to gain unauthorized access to the dataset and manipulate the soil moisture predictions to mislead researchers.
+He wants the system to have weak security and authentication so he can access and modify data without permission.
+He has experience with credential theft, spear-phishing, and social engineering.
 
-### 1
+## 2
+Ema is a user of soil moisture data for large farms that consumers depend on in Seattle. She needs accurate data from the iNaturalist dataset for data analysis and to create data reports. Ema is a researcher and plans to use the data for making improvements in her research.
 
-Jake is a hacker and uses inaturalist photos to create inaccurate data reports of the soil moisture. Jake wants to break through the firewall and access private user data and plans to do token and credential theft. He desires to have weak security and no user authentication in the firewall. He plans to do unauthorized exploitation, and weaponizing of data. His skills are Spear-Phishing and Pretexting.
+## 3
+Sophia is a biodiversity researcher studying how different plant species relate to soil conditions.
+She wants to use iNaturalist photos and soil moisture estimates to understand which plant species are commonly found in areas with different moisture levels.
+She needs the dataset to include plant species information, location, and predicted soil moisture values.
+She has experience in ecological research and R but limited machine learning knowledge.
 
-### 2
+## 4
+Daniel is a geospatial data analyst working on environmental datasets.
+He wants to identify regions where soil moisture data is limited so he can understand gaps in geographic coverage.
+He needs the dataset to include geographic coordinates and information about the availability of soil moisture estimates across different locations.
+He has experience with GIS, Python, and spatial data analysis.
 
-Ema is a user of soil moisture data for large farms that 60% of consumers depend on in Seattle. She needs accurate data from the iNaturalist dataset for data analysis and to create data reports. Ema is a researcher and plans to use the data for making improvements in her research.
+## 5
+Rachel is a meteorological data specialist studying the relationship between weather conditions and soil moisture.
+She wants to use historical precipitation and humidity records alongside iNaturalist photos to help improve soil moisture predictions.
+She needs the dataset to include photo locations, observation dates, and a way to match them with historical weather data.
+She has experience working with weather datasets and Python but limited experience with image-based machine learning.
