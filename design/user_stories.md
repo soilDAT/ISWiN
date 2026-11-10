@@ -34,7 +34,7 @@ She is an advanced coder.
 ### 3
 
 <mark style="background-color: #f4e452;">
-Lila C. is Lila Perkin's clone designed by Sophia. 
+Lila C. is Lila Perkins' clone designed by Sophia. 
 </mark>
 <mark style="background-color: #76db7a;">
 She wants to use this tool to sabotage Lila's home plants. 
