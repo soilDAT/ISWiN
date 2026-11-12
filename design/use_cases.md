@@ -2,7 +2,7 @@
 
 ## Use Case 1: Get soil moisture content data
 
-Users who want to use this local soil moisture data. These users are interested in the output of our ML model (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download).
+Users who want to use this local soil moisture data. These users are interested in the **output of our ML model** (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download).
 
 ### User List:
 1. Alisha (AMY 2)
@@ -42,7 +42,7 @@ Users who want to use this local soil moisture data. These users are interested 
 
 ## Use Case 2: Input user-submitted photos and get local soil moisture content out
 
-[description]
+These users have their own datasets and would like to use the model to output soil moisuture data. 
 
 ### User List:
 1. [person]
