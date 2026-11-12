@@ -37,7 +37,8 @@ Users who want to use this local soil moisture data. These users are interested 
     - use our data to understand where there are gaps in soil moisture data
         - (idea - heatmap of number of images as a 'confidence' metric by location)
 
-## (use case 1a: just visualize, don't download)
+## (use case 1a: just visualize/query online, don't download)
+## (use case 1b: download data)
 
 ## Use Case 2: Input user-submitted photos and get local soil moisture content out
 
