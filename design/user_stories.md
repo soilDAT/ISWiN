@@ -232,68 +232,229 @@ Griffin is a soil researcher and member of Anonymous.
 
 ### 1
 
-Tara is a regional climate modeler. Tara would like to be able to use local estimates of soil moisture to model monthly heatwave risk. Tara wants data that is well documented with uncertainties. Tara is very proficient in data analysis.
-
+<mark style="background-color: #f4e452;">
+Tara is a regional climate modeler. 
+</mark>
+<mark style="background-color: #76db7a;">
+Tara would like to be able to use local estimates of soil moisture to model monthly heatwave risk.
+</mark>
+<mark style="background-color: #90CAF9;">
+Tara wants data that is well documented with uncertainties.
+</mark>
+<mark style="background-color: #ec83ea;">
+ Tara is very proficient in data analysis.
+</mark> 
+  
 ### 2
-
-Groig is a meteorologist/climate scientist. Groig doesn't trust current observations of the seasonal cycle of soil moisture, and is curious about getting more direct observations. Groig would like data in a format that is easily comparable to other data types. Groig is technically skilled, but is busy so would like data to be easy to plug into his existing scripts.
+<mark style="background-color: #f4e452;">
+Groig is a meteorologist/climate scientist.
+</mark>
+<mark style="background-color: #76db7a;">
+Groig doesn't trust current observations of the seasonal cycle of soil moisture, and is curious about getting more direct observations.
+</mark>
+<mark style="background-color: #90CAF9;">
+Groig would like data in a format that is easily comparable to other data types.
+</mark>
+<mark style="background-color: #ec83ea;">
+Groig is technically skilled, but is busy so would like data to be easy to plug into his existing scripts.
+</mark> 
+   
 
 ### 3
-
-Crow is a farmer with a large farm in the great plains. Crow has lots of photos of their farms and wants to get a sense of whether their plants have gotten more water stressed over time due to climate change. Crow wants to get easy to read data after putting in their photos. Crow has relatively little experience with software.
+<mark style="background-color: #f4e452;">
+Crow is a farmer with a large farm in the great plains.
+</mark>
+<mark style="background-color: #76db7a;">
+Crow has lots of photos of their farms and wants to get a sense of whether their plants have gotten more water stressed over time due to climate change.
+</mark>
+<mark style="background-color: #90CAF9;">
+Crow wants to get easy to read data after putting in their photos.
+</mark>
+<mark style="background-color: #ec83ea;">
+Crow has relatively little experience with software.
+</mark> 
+   
 
 ### 4
-
-Clara is a machine learning researcher. Clara is curious about what uses machine learning might have in the earth sciences. Clara wants clear documentation of how our data-driven model is trained so she can try doing it for herself. Clara is highly technically skilled.
+<mark style="background-color: #f4e452;">
+Clara is a machine learning researcher.
+</mark>
+<mark style="background-color: #76db7a;">
+Clara is curious about what uses machine learning might have in the earth sciences.
+</mark>
+<mark style="background-color: #90CAF9;">
+Clara wants clear documentation of how our data-driven model is trained so she can try doing it for herself.
+</mark>
+<mark style="background-color: #ec83ea;">
+Clara is highly technically skilled.
+</mark> 
+   
 
 ### 5
-
-Balthazar is a climate skeptic. Balthazar wants to find information online to prove that the climate is not changing. Balthazar likes to look at the first few things he sees and be able to draw conclusions from them. Balthazar does not have a lot of technical expertise.
+<mark style="background-color: #f4e452;">
+Balthazar is a climate skeptic.
+</mark>
+<mark style="background-color: #76db7a;">
+Balthazar wants to find information online to prove that the climate is not changing. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Balthazar likes to look at the first few things he sees and be able to draw conclusions from them.
+</mark>
+<mark style="background-color: #ec83ea;">
+Balthazar does not have a lot of technical expertise.
+</mark> 
+ 
 
 ### 6
-
-Leopold is a home gardener living in the city who has an interest in environmental science. Leopold doesn't have money for a soil moisture sensor, and is interested in what the seasonal cycle might be where he lives, and whether he might optimize what he plants throughout the year. Leopold wants to be able to put in his location and get information about where he lives. Leopold took a programming class or two in college, but that was a few years ago.
+<mark style="background-color: #f4e452;">
+Leopold is a home gardener living in the city who has an interest in environmental science.
+</mark>
+<mark style="background-color: #76db7a;">
+Leopold doesn't have money for a soil moisture sensor, and is interested in what the seasonal cycle might be where he lives, and whether he might optimize what he plants throughout the year. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Leopold wants to be able to put in his location and get information about where he lives. 
+</mark>
+<mark style="background-color: #ec83ea;">
+Leopold took a programming class or two in college, but that was a few years ago.
+</mark> 
+ 
 
 ### 7
-
-Vera is an avid user of iNaturalist. Vera is curious about what citizen science her iNaturalist photos are being used for. Vera would like to be able to read and easily understand the project, and appreciates clear graphics showing how the photos are used. Vera is technically skilled in photography and image editing, but does not have a background in programming.
+<mark style="background-color: #f4e452;">
+Vera is an avid user of iNaturalist.
+</mark>
+<mark style="background-color: #76db7a;">
+Vera is curious about what citizen science her iNaturalist photos are being used for.
+</mark>
+<mark style="background-color: #90CAF9;">
+Vera would like to be able to read and easily understand the project, and appreciates clear graphics showing how the photos are used.
+</mark>
+<mark style="background-color: #ec83ea;">
+Vera is technically skilled in photography and image editing, but does not have a background in programming.
+</mark> 
+   
 
 ### 8
+<mark style="background-color: #f4e452;">
+Tabitha is a hydrologist. 
+</mark>
+<mark style="background-color: #76db7a;">
+She heard about this soil moisture inference idea and is skeptical, because it only concerns the top layer of soil. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Tabitha wants to see documentation that is scientifically clear about its limitations, and will slot in well with other hydrology data products. 
+</mark>
+<mark style="background-color: #ec83ea;">
+Tabitha is very technically skilled in programming and data science, as well as machine learning.
+</mark> 
 
-Tabitha is a hydrologist. She heard about this soil moisture inference idea and is skeptical, because it only concerns the top layer of soil. Tabitha wants to see documentation that is scientifically clear about its limitations, and will slot in well with other hydrology data products. Tabitha is very technically skilled in programming and data science, as well as machine learning.
 
 ### 9
+<mark style="background-color: #f4e452;">
+Felice is a geography PhD student who focuses on the U.S. east-west differences in response to climate change. 
+</mark>
+<mark style="background-color: #76db7a;">
+Felice is interested in getting soil moisture timeseries over broad regions to compare changes over the last 10 years. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Felice wants data in a format that is easily usable for her research. 
+</mark>
+<mark style="background-color: #ec83ea;">
+Felice is very skilled in data analysis, but mainly uses MATLAB or R.
+</mark> 
 
-Felice is a geography PhD student who focuses on the U.S. east-west differences in response to climate change. Felice is interested in getting soil moisture timeseries over broad regions to compare changes over the last 10 years. Felice wants data in a format that is easily usable for her research. Felice is very skilled in data analysis, but mainly uses MATLAB or R.
 
 ### 10
+<mark style="background-color: #f4e452;">
+Perry is a high schooler competing in his local Envirothon competition. 
+</mark>
+<mark style="background-color: #76db7a;">
+Perry is working on a project about changes to local soils in his town. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Perry wants to be able to get a clear graph / visualization with information about local soil moisture. 
+</mark>
+<mark style="background-color: #ec83ea;">
+Perry does not have any programming experience.
+</mark> 
 
-Perry is a high schooler competing in his local Envirothon competition. Perry is working on a project about changes to local soils in his town. Perry wants to be able to get a clear graph / visualization with information about local soil moisture. Perry does not have any programming experience.
 
 
 ## Adity
 ## 1
-Jake is a hacker and uses inaturalist photos to create inaccurate soil moisture reports. He wants to gain unauthorized access to the dataset and manipulate the soil moisture predictions to mislead researchers.
+<mark style="background-color: #f4e452;">
+Jake is a hacker and uses inaturalist photos to create inaccurate soil moisture reports. 
+</mark>
+<mark style="background-color: #76db7a;">
+He wants to gain unauthorized access to the dataset and manipulate the soil moisture predictions to mislead researchers.
+</mark>
+<mark style="background-color: #90CAF9;">
 He wants the system to have weak security and authentication so he can access and modify data without permission.
+</mark>
+<mark style="background-color: #ec83ea;">
 He has experience with credential theft, spear-phishing, and social engineering.
+</mark> 
+
 
 ## 2
-Ema is a user of soil moisture data for large farms that consumers depend on in Seattle. She needs accurate data from the iNaturalist dataset for data analysis and to create data reports. Ema is a researcher and plans to use the data for making improvements in her research.
+<mark style="background-color: #f4e452;">
+Ema is a user of soil moisture data for large farms that consumers depend on in Seattle.
+</mark>
+<mark style="background-color: #76db7a;">
+She needs accurate data from the iNaturalist dataset for data analysis and to create data reports. 
+</mark>
+<mark style="background-color: #90CAF9;">
+Ema is a researcher and plans to use the data for making improvements in her research.
+</mark>
+<mark style="background-color: #ec83ea;">
+Ema is a competent data scientists.
+</mark> 
+ 
 
 ## 3
+<mark style="background-color: #f4e452;">
 Sophia is a biodiversity researcher studying how different plant species relate to soil conditions.
+</mark>
+<mark style="background-color: #76db7a;">
 She wants to use iNaturalist photos and soil moisture estimates to understand which plant species are commonly found in areas with different moisture levels.
+</mark>
+<mark style="background-color: #90CAF9;">
 She needs the dataset to include plant species information, location, and predicted soil moisture values.
+</mark>
+<mark style="background-color: #ec83ea;">
 She has experience in ecological research and R but limited machine learning knowledge.
+</mark> 
+
 
 ## 4
+<mark style="background-color: #f4e452;">
 Daniel is a geospatial data analyst working on environmental datasets.
+</mark>
+<mark style="background-color: #76db7a;">
 He wants to identify regions where soil moisture data is limited so he can understand gaps in geographic coverage.
+</mark>
+<mark style="background-color: #90CAF9;">
 He needs the dataset to include geographic coordinates and information about the availability of soil moisture estimates across different locations.
+</mark>
+<mark style="background-color: #ec83ea;">
 He has experience with GIS, Python, and spatial data analysis.
+</mark> 
+
+
+
+
 
 ## 5
+<mark style="background-color: #f4e452;">
 Rachel is a meteorological data specialist studying the relationship between weather conditions and soil moisture.
+</mark>
+<mark style="background-color: #76db7a;">
 She wants to use historical precipitation and humidity records alongside iNaturalist photos to help improve soil moisture predictions.
+</mark>
+<mark style="background-color: #90CAF9;">
 She needs the dataset to include photo locations, observation dates, and a way to match them with historical weather data.
+</mark>
+<mark style="background-color: #ec83ea;">
 She has experience working with weather datasets and Python but limited experience with image-based machine learning.
+</mark> 
