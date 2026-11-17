@@ -60,7 +60,7 @@ These users have their own datasets and would like to use the model to infer soi
 
 ## Use Case 3: Model Evaluation
 
-[description]
+These users are interested in the quality of the ML model used to predict soil moisture, and would like to be able to evaluate the performance of different versions(?) of the model.
 
 ### User List
 1. [person]
