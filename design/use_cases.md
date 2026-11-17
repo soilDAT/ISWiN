@@ -2,7 +2,7 @@
 
 ## Use Case 1: Get soil moisture content data
 
-Users who want to use this local soil moisture data. These users are interested in the output of our ML model (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download).
+Users who want to use this local soil moisture data. These users are interested in the **output of our ML model** (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download).
 
 ### User List:
 
@@ -44,15 +44,19 @@ Users who want to use this local soil moisture data. These users are interested 
 
 ## Use Case 2: Input user-submitted photos and get local soil moisture content out
 
-[description]
+These users have their own datasets and would like to use the model to infer soil moisuture content. These users are interested in both the **input and the output** of our ML model. They require the model to be small enough so that it can be run on laptop-level compute.    
 
 ### User List:
-1. [person]
-    - [context]
-2. [person]
-    - [context]
-3. [person]
-    - [context]
+1. Stefan (AMY 1)
+    - wants to estimate moisture level of his home plants
+2. Naoko (AMY 8)
+    - wants to use her own dataset, similar to the iNaturalist, to expand the soil moisture data. 
+3. Crow (CALEB 3)
+    - wants to use their photos of their farm to evaluate their watering protocol. 
+4. Vera (CALEB 7)
+    - wants to see what the iNaturalist dataset can be used for. 
+5. Sophia (ADITY 3)
+    - wants to use iNaturalist photos and soil moisture data to understand relationship between plant type and regional moisture levels. 
 
 ## Use Case 3: Model Evaluation
 

@@ -37,7 +37,7 @@ She is an advanced coder.
 Lila C. is Lila Perkins' clone designed by Sophia. 
 </mark>
 <mark style="background-color: #76db7a;">
-She wants to use this tool to sabotage Lila's home plants. 
+She wants to use this tool to sabotage Lila's home plants. She plans to hack into our model to output incorrect moisture levels.  
 </mark>
 <mark style="background-color: #90CAF9;">
 She is not as intelligent as Lila, so she wants this tool to be easy to use as possible.
