@@ -2,7 +2,7 @@
 
 ## Use Case 1: Get soil moisture content data
 
-Users who want to use this local soil moisture data. These users are interested in the **output of our ML model** (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download).
+Users who want to use this local soil moisture data. These users are interested in the **output of our ML model** (and not the input). This includes users who only want to view the output (i.e. not download) and users who want to download and work with the output (i.e. download). These users generally want to query a location and a time period and get back a soil moisture timeseries.
 
 ### User List:
 
@@ -18,13 +18,13 @@ Users who want to use this local soil moisture data. These users are interested 
 5. Caleb (LILA 1)
     - use data (simple interface to download)
 6. Tara (CALEB 1)
-    - well documented soil moisture data with uncertainty
+    - well documented soil moisture data with uncertainty (local/regional)
 7. Groig (CALEB 2)
     - data in a format that very easy comparable to other datasets (domain standard presentation)
 8. Felice (CALEB 9)
     - wants to be able to look at broad regions and as long as possible time series
 9. Bryce (LILA 6)
-    - wants to compare our data with his own sensors
+    - wants to compare our data with his own sensors (local)
 
 ### Use case 1b: view/visualize the output directly, not download for further analysis
 1. Adity (LILA 2)
