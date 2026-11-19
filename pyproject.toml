@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64.0","wheel", "setuptools_scm>=8.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iswin"
+dynamic = ["version"]
+authors = [
+    {name="Caleb Fried", email="cbfried@uw.edu"},
+    {name="Amy Rude",email="amysrude@uw.edu"},
+    {name="Lila Perkins",email="lfdp@uw.edu"},
+    {name="Adity Rani", email="adity@uw.edu"}
+]
+description = []
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.25"
+]
+classifiers = [
+    "Programming Language :: Python :: 3"
+    "License :: OSI Approved :: MIT License"
+    "Operating System :: OS Independent"
+]
+
+
+[tool.setuptools_scm]
