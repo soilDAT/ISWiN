@@ -11,7 +11,7 @@ authors = [
     {name="Lila Perkins",email="lfdp@uw.edu"},
     {name="Adity Rani", email="adity@uw.edu"}
 ]
-description = []
+description = ["A tool to acquire soil moisture from iNaturalist photos."]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
