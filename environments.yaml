@@ -1,0 +1,12 @@
+name: iswin
+
+channels:
+- conda-forge
+
+dependencies: 
+- matplotlib
+- numpy>=1.23
+- pip 
+- scikit-learn
+- pip:
+  - torch
