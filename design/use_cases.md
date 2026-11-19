@@ -40,6 +40,8 @@ Users who want to use this local soil moisture data. These users are interested 
 6. Daniel (ADITY 4)
     - use our data to understand where there are gaps in soil moisture data
         - (idea - heatmap of number of images as a 'confidence' metric by location)
+7. Rachel (ADITY 5)
+   - needs data with photo locations, observation dates and a way to match with historical weather data
 
 
 ## Use Case 2: Input user-submitted photos and get local soil moisture content out
@@ -64,12 +66,31 @@ These users have their own datasets and would like to use the model to infer soi
 These users are interested in the quality of the ML model used to predict soil moisture, and would like to be able to evaluate the performance of different versions(?) of the model.
 
 ### User List
-1. [person]
-    - [context]
-2. [person]
-    - [context]
-3. [person]
-    - [context]
+
+### Use case 3a: help
+1. Payton (AMY 6)
+    - wants to help with this project (i.e. help improve the ML model)
+2. Lila (LILA 3)
+    - wants full access to training and test data to evaluate our model
+3. Amy (LILA 4)
+   - wants to improve the ML model
+4. Rhea (LILA 5)
+   - wants to be able to fix user submitted issues to the project
+5. Clara (CALEB 4)
+   - wants to be able to understand our full implementation to try and replicate it herself
+6. Tabitha (CALEB 8)
+   - wants to include the tool in her hydrology data products
+
+### Use case 3b: hurt
+1. Lila C. (AMY 3)
+    - wants to corrupt the model to output incorrect moisture levels
+2. Griffin (LILA 7)
+    - wants to be able to make our model less accurate
+3. Jake (ADITY 1)
+    - wants the system to have weak security and authentication to modify out data and model
+
+
+
 
 
 
