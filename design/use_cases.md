@@ -57,6 +57,7 @@ These users have their own datasets and would like to use the model to infer soi
     - wants to see what the iNaturalist dataset can be used for. 
 5. Sophia (ADITY 3)
     - wants to use iNaturalist photos and soil moisture data to understand relationship between plant type and regional moisture levels. 
+    - She wants to input her own images of Lila's plants 
 
 ## Use Case 3: Model Evaluation
 
