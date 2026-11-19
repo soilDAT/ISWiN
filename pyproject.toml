@@ -24,7 +24,7 @@ classifiers = [
 ]
 
 [project urls]
-Homepage = https://github.com/soilDAT/ISWiN""
+Homepage = "https://github.com/soilDAT/ISWiN"
 Issues = "https://github.com/soilDAT/ISWiN/issues"
 
 [tool.setuptools_scm]
