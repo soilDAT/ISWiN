@@ -23,7 +23,7 @@ classifiers = [
     "Operating System :: OS Independent"
 ]
 
-[project urls]
+[project-urls]
 Homepage = "https://github.com/soilDAT/ISWiN"
 Issues = "https://github.com/soilDAT/ISWiN/issues"
 
