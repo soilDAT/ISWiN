@@ -18,8 +18,8 @@ dependencies = [
     "numpy>=1.25"
 ]
 classifiers = [
-    "Programming Language :: Python :: 3"
-    "License :: OSI Approved :: MIT License"
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
 
