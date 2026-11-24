@@ -4,7 +4,7 @@ on: [push, pull_request]
 jobs:
   tests:
     env:
-      ENV_NAME: soil
+      ENV_NAME: iswin
       PYTHON: ${{ matrix.python-version }}
       OS: ${{ matrix.os }}
     name: Testing
@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
         with:
-          fetch-depth: 0
+          fetch-depth: -1
 
       - name: Setup Miniconda
         uses: conda-incubator/setup-miniconda@v3
