@@ -8,5 +8,6 @@ dependencies:
 - numpy>=1.23
 - pip 
 - scikit-learn
+- pytest
 - pip:
   - torch
